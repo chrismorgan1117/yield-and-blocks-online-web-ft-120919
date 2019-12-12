@@ -1,5 +1,8 @@
 def hello_t(array)
-  names.each{|name| puts name}
+  I = 0 
+  while I < array.length 
+    I = I + 1 
+  end 
   
 end
 
